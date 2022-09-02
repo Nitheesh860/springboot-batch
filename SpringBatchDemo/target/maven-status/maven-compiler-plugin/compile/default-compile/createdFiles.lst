@@ -1,0 +1,6 @@
+com/samco/SpringBatchDemo/entity/Employees.class
+com/samco/SpringBatchDemo/controller/JobController.class
+com/samco/SpringBatchDemo/repository/EmployeesRepository.class
+com/samco/SpringBatchDemo/SpringBatchDemoApplication.class
+com/samco/SpringBatchDemo/config/EmployeesProcesser.class
+com/samco/SpringBatchDemo/config/SpringBatchConfig.class
